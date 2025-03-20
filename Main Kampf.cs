@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
 
-public static class DiNahu : Monobehaviour {
+public static class DiNahu : MonoBehaviour {
 
 }
